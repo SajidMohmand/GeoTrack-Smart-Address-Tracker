@@ -1,2 +1,30 @@
-# GeoTrack-Smart-Address-Tracker
-GeoTrack is a Flutter app that lets users search and save global addresses using map APIs. Saved addresses are stored in Firestore. Users can select any two addresses to view the shortest route between them on a map. Ideal for delivery planning, personal tracking, and real-time location visualization.
+🔍 GeoTrack: Smart Address Tracker
+GeoTrack is a Flutter-based location app that enables users to:
+
+🌐 Search & select addresses worldwide using map and geolocation APIs
+
+📍 Save multiple addresses per user, stored securely in Firestore
+
+🗺️ Visualize the shortest path between any two saved locations on a map
+
+🔁 Real-time tracking & seamless address selection
+
+Ideal for logistics, delivery planning, or personal address management.
+
+🚀 Tech Stack:
+Flutter (Cross-platform UI)
+
+Firebase Firestore (Database)
+
+Google Maps API (Map display)
+
+Geocoding API (Address search)
+
+📦 Features:
+User authentication
+
+Save & manage multiple addresses
+
+Route drawing between two selected points
+
+Shortest distance calculation
